@@ -1,2 +1,2 @@
-# dall-e
+# DALL-E
  
