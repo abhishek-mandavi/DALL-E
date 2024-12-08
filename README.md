@@ -11,6 +11,13 @@ Generate AI-based images using DALL-E API.
 View generated images in a gallery.
 Store generated images and their metadata in a database.
 
+#Installation
+
+Prerequisites
+Node.js (for backend and frontend)
+MongoDB (for database)
+OpenAI API Key (for DALL-E integration)
+
 #Features
 
 Text to Image Generation: Generate realistic images from text descriptions using DALL-E.
