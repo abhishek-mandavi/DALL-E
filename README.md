@@ -4,12 +4,13 @@ This project integrates OpenAI's DALL-E with the MERN stack (MongoDB, Express, R
 #Project Overview
 
 This project allows users to interact with the DALL-E model to generate images based on custom text prompts. It uses the MERN stack for the backend and frontend, providing a smooth and scalable experience.
+
 Key features:
 
-Input text descriptions.
-Generate AI-based images using DALL-E API.
-View generated images in a gallery.
-Store generated images and their metadata in a database.
+-Input text descriptions.
+-Generate AI-based images using DALL-E API.
+-View generated images in a gallery.
+-Store generated images and their metadata in a database.
 
 #Installation
 
