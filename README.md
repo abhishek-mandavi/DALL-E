@@ -2,6 +2,7 @@
 This project integrates OpenAI's DALL-E with the MERN stack (MongoDB, Express, React, Node.js) to generate images from text prompts. Users can input text descriptions and get AI-generated images in real-time. It showcases how to build a full-stack web application that uses the power of AI to create dynamic content.
 
 #Project Overview
+
 This project allows users to interact with the DALL-E model to generate images based on custom text prompts. It uses the MERN stack for the backend and frontend, providing a smooth and scalable experience.
 Key features:
 
@@ -11,6 +12,7 @@ View generated images in a gallery.
 Store generated images and their metadata in a database.
 
 #Features
+
 Text to Image Generation: Generate realistic images from text descriptions using DALL-E.
 Image Gallery: View previously generated images.
 Responsive UI: A modern, user-friendly interface built with React.
