@@ -7,9 +7,9 @@ This project allows users to interact with the DALL-E model to generate images b
 
 Key features:
 
--Input text descriptions.
--Generate AI-based images using DALL-E API.
--View generated images in a gallery.
+ - Input text descriptions.
+ - Generate AI-based images using DALL-E API.
+ - View generated images in a gallery.
 -Store generated images and their metadata in a database.
 
 #Installation
