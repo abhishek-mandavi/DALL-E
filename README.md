@@ -15,30 +15,33 @@ Key features:
 #Installation
 
 Prerequisites
-Node.js (for backend and frontend)
-MongoDB (for database)
-OpenAI API Key (for DALL-E integration)
+
+ - Node.js (for backend and frontend)
+ - MongoDB (for database)
+ - OpenAI API Key (for DALL-E integration)
 
 #Features
 
-Text to Image Generation: Generate realistic images from text descriptions using DALL-E.
-Image Gallery: View previously generated images.
-Responsive UI: A modern, user-friendly interface built with React.
-Database Integration: Store generated image metadata in MongoDB for easy access.
-Fast & Scalable: Optimized for both speed and scalability.
+-  Text to Image Generation: Generate realistic images from text descriptions using DALL-E.
+- Image Gallery: View previously generated images. 
+- Responsive UI: A modern, user-friendly interface built with React.
+- Database Integration: Store generated image metadata in MongoDB for easy access.
+- Fast & Scalable: Optimized for both speed and scalability.
 
 #Tech Stack
-Frontend:
+ - Frontend:
 
-React
-Axios (for API requests)
-React Router (for routing)
-Backend:
+ - React
+ - Axios (for API requests)
+ - React Router (for routing)
+   
+ - Backend:
 
-Node.js
-Express.js
-OpenAI API (DALL-E)
-MongoDB (for storing image metadata)
+ - Node.js
+ - Express.js
+ - OpenAI API (DALL-E)
+ - MongoDB (for storing image metadata)
+   
 Others:
 
 dotenv (for environment variables)
